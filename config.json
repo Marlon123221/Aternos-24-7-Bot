@@ -1,7 +1,7 @@
 {
     "server": {
-        "host": "your-aternos-server.aternos.me",
-        "port": 25565,
+        "host": "blacking-Iok7.aternos.me",
+        "port": 48780,
         "version": "1.20.1"
     },
     "bot": {
